@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\kuanc\desktop\自相關函數計算時間\時域頻域比較\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(40): warning C4018: '<': signed/unsigned 不相符
+c:\users\kuanc\desktop\自相關函數計算時間\時域頻域比較\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(101): warning C4018: '<': signed/unsigned 不相符
+c:\users\kuanc\desktop\自相關函數計算時間\時域頻域比較\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(108): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  5 of 8 functions (62.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  autocorr_time_freq_2023_0211.vcxproj -> C:\Users\kuanc\Desktop\自相關函數計算時間\時域頻域比較\autocorr_time_freq_2023_0211\Release\autocorr_time_freq_2023_0211.exe

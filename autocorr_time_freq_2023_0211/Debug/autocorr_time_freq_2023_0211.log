@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\kuanc\desktop\時域與頻域實現自相關函數計算時間\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(40): warning C4018: '<': signed/unsigned 不相符
+c:\users\kuanc\desktop\時域與頻域實現自相關函數計算時間\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(101): warning C4018: '<': signed/unsigned 不相符
+c:\users\kuanc\desktop\時域與頻域實現自相關函數計算時間\autocorr_time_freq_2023_0211\autocorr_time_freq_2023_0211\main.c(108): warning C4018: '<': signed/unsigned 不相符
+  autocorr_time_freq_2023_0211.vcxproj -> C:\Users\kuanc\Desktop\時域與頻域實現自相關函數計算時間\autocorr_time_freq_2023_0211\Debug\autocorr_time_freq_2023_0211.exe
