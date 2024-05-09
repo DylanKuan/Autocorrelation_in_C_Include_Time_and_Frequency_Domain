@@ -1,4 +1,4 @@
-# Autocorrelation_in_C_Include-time-and-frequency-domain
+# Autocorrelation in C Include Time and Frequency Domain
 Computational time test of autocorrelation function implemented in time domain and frequency domain
 
 
